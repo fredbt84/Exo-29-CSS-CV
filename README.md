@@ -3,7 +3,7 @@
 Commencez par TOUTE la structure en HTML, votre CV devra contenir:
 
     1. Un encart pour votre cursus scolaire
-    2. Un encart pour votre percours pro
+    2. Un encart pour votre parcours pro
     3. Un encart sur vos compétences en informatique / développement
     4. Un encart relatif à vos hobbies
     5. Un formulaire de contact
